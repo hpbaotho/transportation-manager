@@ -20,5 +20,12 @@ namespace TransportationManager
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            Form frmHome = new frmHome();
+            frmHome.Show();
+            
+        }
     }
 }

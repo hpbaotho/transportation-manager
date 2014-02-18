@@ -59,6 +59,7 @@
             this.btnLogin.TabIndex = 2;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = false;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // lblError
             // 
@@ -95,6 +96,7 @@
             this.Controls.Add(this.tblUsername);
             this.MaximumSize = new System.Drawing.Size(475, 250);
             this.Name = "LoginForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "  Login www.ninhbinhcoop.com";
             this.Load += new System.EventHandler(this.LoginForm_Load);
             this.ResumeLayout(false);
