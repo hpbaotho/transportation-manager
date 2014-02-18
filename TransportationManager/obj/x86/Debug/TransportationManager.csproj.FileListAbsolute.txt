@@ -1,0 +1,8 @@
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\bin\Debug\TransportationManager.exe
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\bin\Debug\TransportationManager.pdb
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\obj\x86\Debug\TransportationManager.AboutDev.resources
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\obj\x86\Debug\TransportationManager.Properties.Resources.resources
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\obj\x86\Debug\TransportationManager.csproj.GenerateResource.Cache
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\obj\x86\Debug\TransportationManager.exe
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\obj\x86\Debug\TransportationManager.pdb
+E:\HOCTAP\HTX\Dev\Project\TransportationManager\TransportationManager\obj\x86\Debug\TransportationManager.LoginForm.resources
